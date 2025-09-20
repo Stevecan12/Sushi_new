@@ -1,2 +1,2 @@
-# Sushi_new
+# sushi
 A sushi website
